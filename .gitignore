@@ -66,7 +66,7 @@ Assets/*
 !Assets/Textures.meta
 !Assets/Prefabs.meta
 !Assets/UI.meta
-
+!Assets/SteamVR_Input
 
 # ================ #
 # From Unity Store
